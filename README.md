@@ -12,7 +12,7 @@
 <a href="https://linkedin.com/in/carolina-santos-567165220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carolina-santos-567165220" height="30" width="40" /></a>
 <a href="https://instagram.com/carolsaint" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="carolsaint" height="30" width="40" /></a>
 </p>
- 📫 Reach me: **carolbvbalva@gmail.com**
+ 📫 Reach me at: **carolbvbalva@gmail.com**
 
 ****
 
