@@ -6,7 +6,7 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carolsaint&show_icons=true&locale=en" alt="carolsaint" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carolsaint&show_icons=true&locale=en&layout=compact" alt="carolsaint" /></p>
 
-
+- 📫 How to reach me **carolbvbalva@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/carolina-santos-567165220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carolina-santos-567165220" height="30" width="40" /></a>
