@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carolina</h1>
-<h3 align="center">I'm a full-stack developer from Brasil currently studying Analysis and Systems Development</h3>
+<h3 align="center">I'm a full-stack developer from Brasil with a degree in Analysis and Systems Development</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=carolsaint&label=Profile%20views&color=0e75b6&style=flat" alt="carolsaint" /> </p>
 
 **** 
